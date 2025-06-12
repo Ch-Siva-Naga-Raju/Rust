@@ -23,7 +23,7 @@ fn main() {
     let rect_area: f32 = area(rect);
     println!("Circle area is: {}", circle_area);
     println!("Square area is: {}", square_area);
-    println!("Rectangle area is: {}", rect_area);c
+    println!("Rectangle area is: {}", rect_area);
     struct Rect {
         width: u32,
         height:u32
